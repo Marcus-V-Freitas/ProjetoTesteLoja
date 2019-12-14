@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DLL.DAO.Conexao.AbstractDatabase">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAACAAAAAEAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>DAO\Conexao\AbstractDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DLL.DAO.Conexao.DataDal">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAABAAAAAEAAAAAAAAACAAAAAAAEAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>DAO\Conexao\DataDal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DLL.DAO.Conexao.FactoryBD">
+    <Position X="2" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAO\Conexao\FactoryDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DLL.DAO.Conexao.Mysql.MysqlDAO">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAEAAAAAAAAAAECAAAAAEAAAAAAAAAAQCAAAAAAAAA=</HashCode>
+      <FileName>DAO\Conexao\Mysql\MysqlDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DLL.DAO.Conexao.MemoriaDAO">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAACAAAAAEAAAAAAAAAAACBAAAAAAAA=</HashCode>
+      <FileName>DAO\Conexao\Memoria\MemoriaDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

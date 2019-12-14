@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DLL.BLL.Validacoes.Desconto.AbstractDesconto">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAQAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\Validacoes\Desconto\AbstractDesconto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DLL.BLL.Validacoes.Desconto.BoletoDesconto">
+    <Position X="11.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\Validacoes\Desconto\BoletoDesconto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DLL.BLL.Validacoes.Desconto.CartaoDesconto">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\Validacoes\Desconto\CartaoDesconto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DLL.BLL.Validacoes.Desconto.DinheiroDesconto">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\Validacoes\Desconto\DinheiroDesconto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DLL.BLL.Validacoes.Desconto.Desconto">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>BLL\Validacoes\Desconto\Desconto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

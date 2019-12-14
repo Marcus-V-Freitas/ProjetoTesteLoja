@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DLL.BLL.Validacoes.CPFCNPJ.AbstractCalculo">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\Validacoes\CPFCNPJ\AbstractCalculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DLL.BLL.Validacoes.CPFCNPJ.CalculoCPFCNPJ">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\Validacoes\CPFCNPJ\CalculoCPFCNPJ.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DLL.BLL.Validacoes.CPFCNPJ.CNPJ">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\Validacoes\CPFCNPJ\CNPJ.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DLL.BLL.Validacoes.CPFCNPJ.DecoratorCalculo">
+    <Position X="9.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAGAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\Validacoes\CPFCNPJ\DecoratorCalculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DLL.BLL.Validacoes.CPFCNPJ.CPF">
+    <Position X="7.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAACAAAA=</HashCode>
+      <FileName>BLL\Validacoes\CPFCNPJ\CPF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
